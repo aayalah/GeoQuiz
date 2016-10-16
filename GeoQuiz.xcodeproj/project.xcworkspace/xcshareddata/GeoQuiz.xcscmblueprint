@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "46A2B6ECC8B5B06F92A55F4D6E22AFF15BDB7345",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0D206B1D1C36CEBBEE3AD05785F2DE079814CD64" : 9223372036854775807,
+    "46A2B6ECC8B5B06F92A55F4D6E22AFF15BDB7345" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "64642A54-7D72-4462-B021-93285628F21A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0D206B1D1C36CEBBEE3AD05785F2DE079814CD64" : "",
+    "46A2B6ECC8B5B06F92A55F4D6E22AFF15BDB7345" : "ios-nd-geo-quiz\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GeoQuiz",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GeoQuiz.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:aayalah\/GeoQuiz.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0D206B1D1C36CEBBEE3AD05785F2DE079814CD64"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/udacity\/ios-nd-geo-quiz.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "46A2B6ECC8B5B06F92A55F4D6E22AFF15BDB7345"
+    }
+  ]
+}
